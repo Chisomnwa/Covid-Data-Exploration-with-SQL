@@ -31,4 +31,4 @@ According to the insights derived from the covid data :
 
 # Dashboard Report
 
-Here is a  Tableau(https://public.tableau.com/app/profile/chisom.promise/viz/Covid19-DataExplorationUsingSQL/Covid19Dashboard?publish=yes) dashboard report that I built to further to visualize the insights and trends derived from this analysis.
+Here is a [Tableau](https://public.tableau.com/app/profile/chisom.promise/viz/Covid19-DataExplorationUsingSQL/Covid19Dashboard?publish=yes) dashboard report that I built to further to visualize the insights and trends derived from this analysis.
