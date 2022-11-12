@@ -6,7 +6,7 @@ Presently the impacts of COVID-19 in daily life are extensive and have far reach
 
 In this project, I analyzed and explored covid data with SQL using Micrsoft SQL Server Management Studio.
 
-This covid-19 data was sourced from [Worl in Data](https://ourworldindata.org/covid-deaths) starting from 1st January, 2020 to 5th November, 2022.
+This covid-19 data was sourced from [Our World in Data](https://ourworldindata.org/covid-deaths) starting from 1st January, 2020 to 5th November, 2022.
 
 
 
@@ -31,4 +31,4 @@ According to the insights derived from the covid data :
 
 # Dashboard Report
 
-Here is a  Tableau() dashboard report that I built to further to visualize the insights and trends derived from this analysis.
+Here is a  Tableau(https://public.tableau.com/app/profile/chisom.promise/viz/Covid19-DataExplorationUsingSQL/Covid19Dashboard?publish=yes) dashboard report that I built to further to visualize the insights and trends derived from this analysis.
