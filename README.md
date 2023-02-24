@@ -33,4 +33,4 @@ According to the insights derived from the covid data :
 
 Here is a [Tableau](https://public.tableau.com/app/profile/chisom.promise/viz/Covid19-DataExplorationUsingSQL/Covid19Dashboard?publish=yes) dashboard report that I built to further to visualize the insights and trends derived from this analysis.
 
-![Dashboard](https://github.com/Chisomnwa/AdventureWorks-Sales-Performance-Analysis/blob/Main/AdventureWorks%20Sales%20Performance%20Dashboard.jpg)
+![Dashboard](https://github.com/Chisomnwa/Covid-Data-Exploration-with-SQL/blob/main/Covid-19%20Data%20Exploration%20Dashboard.png)
